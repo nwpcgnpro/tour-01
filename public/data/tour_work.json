@@ -1,0 +1,93 @@
+[
+	{
+		"id": 1,
+		"kuerzel": "001",
+		"tour_name": "BN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 1,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "Bedarfsarzt",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 2,
+		"kuerzel": "002",
+		"tour_name": "BN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 0,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 3,
+		"kuerzel": "003",
+		"tour_name": "BN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 2,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 4,
+		"kuerzel": "004",
+		"tour_name": "DN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 1,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 5,
+		"kuerzel": "005",
+		"tour_name": "DN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 2,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 6,
+		"kuerzel": "006",
+		"tour_name": "DN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 0,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	},
+	{
+		"id": 7,
+		"kuerzel": "007",
+		"tour_name": "DN",
+		"datum": "2024-10-18",
+		"sort": 1,
+		"boxen": 0,
+		"befunde": false,
+		"material": false,
+		"proben": false,
+		"bemerkung": "n/a",
+		"timestamp": "2024-10-18 14:40:37.72638+00"
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"kuerzel": "001",
+		"tour_name": "BN",
+		"sort": 1,
+		"name": "Institut Max1",
+		"aka1": "Facharzt",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 4",
+		"plz": 51145,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": "Bonn 1"
+	},
+	{
+		"kuerzel": "002",
+		"tour_name": "BN",
+		"sort": 2,
+		"name": "Institut Max2",
+		"aka1": "",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 6",
+		"plz": 51145,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": ""
+	},
+	{
+		"kuerzel": "003",
+		"tour_name": "BN",
+		"sort": 3,
+		"name": "Institut Max3",
+		"aka1": "",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 8",
+		"plz": 51145,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": ""
+	},
+	{
+		"kuerzel": "004",
+		"tour_name": "DN",
+		"sort": 4,
+		"name": "Institut Max4",
+		"aka1": "Facharzt",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 88",
+		"plz": 51149,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": "Dueren 1"
+	},
+	{
+		"kuerzel": "005",
+		"tour_name": "DN",
+		"sort": 5,
+		"name": "Institut Max5",
+		"aka1": "",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 79",
+		"plz": 51149,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": ""
+	},
+	{
+		"kuerzel": "006",
+		"tour_name": "DN",
+		"sort": 6,
+		"name": "Institut Max6",
+		"aka1": "Facharzt",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 41",
+		"plz": 51149,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": ""
+	},
+	{
+		"kuerzel": "007",
+		"tour_name": "DN",
+		"sort": 7,
+		"name": "Institut Max7",
+		"aka1": "",
+		"aka2": "",
+		"adresse": "Hazebrouckstr, 24",
+		"plz": 51149,
+		"ort": "Köln",
+		"tel": "0221/12456",
+		"info": ""
+	}
+]

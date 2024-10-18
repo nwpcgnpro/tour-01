@@ -1,0 +1,36 @@
+.layer {
+	--oy: auto;
+	--pc: center;
+	--ad: 1.5s;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	overflow-x: hidden;
+	overflow-y: var(--oy);
+
+	&.fix {
+		--oy: hidden;
+	}
+
+	&.center {
+		display: grid;
+		place-content: var(--pc);
+	}
+
+	&.nwp {
+		animation: var(--ad) cubic-bezier(0.25, 1, 0.3, 1) layerCircleIn both;
+		animation-delay: 0.1s;
+	}
+}
+
+@keyframes layerCircleIn {
+	from {
+		clip-path: circle(0%);
+	}
+
+	to {
+		clip-path: circle(125%);
+	}
+}

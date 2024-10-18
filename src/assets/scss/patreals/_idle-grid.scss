@@ -1,0 +1,47 @@
+.idle-grid {
+	display: grid;
+	grid-template-columns: 1fr var(--page-width) 1fr;
+	grid-template-rows: 1fr;
+	gap: 0px 0px;
+	grid-template-areas: 'left article right';
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	overflow: hidden;
+
+	.article {
+		grid-area: article;
+		position: relative;
+		overflow: hidden;
+	}
+
+	.right {
+		grid-area: right;
+		position: relative;
+		overflow: hidden;
+	}
+
+	.left {
+		position: relative;
+		overflow: hidden;
+	}
+}
+
+.site {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	overflow-x: hidden;
+	overflow-y: auto;
+
+	article {
+		flex-grow: 1;
+		padding: var(--spacing);
+	}
+}
